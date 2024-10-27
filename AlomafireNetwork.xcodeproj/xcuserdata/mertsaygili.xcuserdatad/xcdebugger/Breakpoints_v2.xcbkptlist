@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9F338582-AF5C-463C-BCDD-C602FAFB6593"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B1C60DA-38D5-4E87-8D02-3F92513BE8F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlomafireNetwork/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "loadPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B1C60DA-38D5-4E87-8D02-3F92513BE8F5 - b139d8fa6181573b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for AlomafireNetwork.ContentView.loadPosts() async -&gt; ()"
+                  moduleName = "AlomafireNetwork.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertsaygili/develop/swift/AlomafireNetwork/AlomafireNetwork/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52">
+               </Location>
+               <Location
+                  uuid = "8B1C60DA-38D5-4E87-8D02-3F92513BE8F5 - 52925827e36b970e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for AlomafireNetwork.ContentView.loadPosts() async -&gt; ()"
+                  moduleName = "AlomafireNetwork.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertsaygili/develop/swift/AlomafireNetwork/AlomafireNetwork/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52">
+               </Location>
+               <Location
+                  uuid = "8B1C60DA-38D5-4E87-8D02-3F92513BE8F5 - f83c578c10df8b3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for AlomafireNetwork.ContentView.loadPosts() async -&gt; ()"
+                  moduleName = "AlomafireNetwork.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertsaygili/develop/swift/AlomafireNetwork/AlomafireNetwork/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52">
+               </Location>
+               <Location
+                  uuid = "8B1C60DA-38D5-4E87-8D02-3F92513BE8F5 - 9b410b1908b1653e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for AlomafireNetwork.ContentView.loadPosts() async -&gt; ()"
+                  moduleName = "AlomafireNetwork.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertsaygili/develop/swift/AlomafireNetwork/AlomafireNetwork/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

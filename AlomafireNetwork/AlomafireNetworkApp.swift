@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct AlomafireNetworkApp: App {
+    
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(postService: PostService())
         }
     }
 }

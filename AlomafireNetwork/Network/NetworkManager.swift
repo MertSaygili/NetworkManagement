@@ -39,7 +39,12 @@ final class NetworkManager {
     private let session: Session
 
     private init() {
-        self.session = Session(interceptor: CustomRequestInterceptor())
+        let eventMonitor: NetworkEventMonitor = NetworkEventMonitor();
+        
+        self.session = Session(
+            interceptor: CustomRequestInterceptor(),
+            eventMonitors: [eventMonitor]
+        )
     }
 
     /// sending request to server
